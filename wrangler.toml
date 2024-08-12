@@ -4,7 +4,7 @@ account_id = "7d287db5c2cd103329f87a8370bd4bab"  # 此处将 <CF_ACCOUNT_ID> 替
 zone_id = "c32e92b6705c8199136d5fa4505a0f9b"  # 此处将 <CF_ZONE_ID> 替换为区域 ID
 workers_dev = false
 route = "https://clonek.eu.org/*"  # 此处将 <YOUR_DOMAIN> 替换为你的域名
-compatibility_date = "2022-03-12"
+compatibility_date = "2024-08-12"
 kv_namespaces = [
   { binding = "KV", id = "5fcd6ae8a76c46609bd1698692ed020c"},  # 此处将 <CF_KV_ID> 替换为命名空间 ID
 ]
